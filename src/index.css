@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+}
+
+.jcontainer {
+    border-bottom: 1px solid;
+}
+
+.setup {
+    font-weight: bold;
+}
